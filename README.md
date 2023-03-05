@@ -3,11 +3,13 @@ This is a code written is python and it is used to do
 SSH attacks
 
 
-The input is given in this order
-{python program} {routers ip } {target ip}
+# Input the ip address the user name and the file name with the passwords 
+# and then the program will do the magic for you 
+# it will run slow because i have not implemented the threading and time libraries
+# but it will help with the basic understanding of how the program works
 
-then it will extract the mac addresses to attempt a MiTM attack 
-https://binged.it/3JewymE
-
+#
+#
+#
 
 ## That's it enjoy the program 
